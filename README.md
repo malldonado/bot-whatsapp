@@ -27,7 +27,6 @@ Twilio is used to facilitate communication between the bot and WhatsApp users. I
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-  `
 
 2. **Install dependencies:**
    ```bash
