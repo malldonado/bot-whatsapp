@@ -34,7 +34,7 @@ Twilio is used to facilitate communication between the bot and WhatsApp users. I
    ```
 3. **Set up environment variables:**
 
-Rename .env.example to .env and add your Twilio credentials and any other necessary environment variables:
+***Rename .env.example to .env and add your Twilio credentials and any other necessary environment variables:***
 
 ```bash
 TWILIO_ACCOUNT_SID=your_account_sid
